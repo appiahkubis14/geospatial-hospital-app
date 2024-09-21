@@ -25,8 +25,8 @@ A comprehensive Flutter mobile application designed to help users locate nearby 
 ## App Screenshots
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github.com/user-attachments/assets/3223b11a-e5ca-44c9-aa0b-502d47cb84aa" width="200" style="margin: 10px;"/>
-  <img src="https://github.com/user-attachments/assets/bf59ba27-11b0-48e7-8601-c4411aca38b2" width="200" style="margin: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/3223b11a-e5ca-44c9-aa0b-502d47cb84aa" width="200" style="margin: 30px;"/>
+  <img src="https://github.com/user-attachments/assets/bf59ba27-11b0-48e7-8601-c4411aca38b2" width="200" style="margin: 30px;"/>
 </div>
 
 
