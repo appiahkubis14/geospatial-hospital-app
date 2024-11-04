@@ -5,6 +5,7 @@
 import FlutterMacOS
 import Foundation
 
+<<<<<<< HEAD
 import cloud_firestore
 import connectivity_plus
 import facebook_auth_desktop
@@ -41,4 +42,10 @@ func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
   SharedPreferencesPlugin.register(with: registry.registrar(forPlugin: "SharedPreferencesPlugin"))
   SignInWithApplePlugin.register(with: registry.registrar(forPlugin: "SignInWithApplePlugin"))
   TwitterLoginPlugin.register(with: registry.registrar(forPlugin: "TwitterLoginPlugin"))
+=======
+import url_launcher_macos
+
+func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
+  UrlLauncherPlugin.register(with: registry.registrar(forPlugin: "UrlLauncherPlugin"))
+>>>>>>> 7693faa (updated repo)
 }

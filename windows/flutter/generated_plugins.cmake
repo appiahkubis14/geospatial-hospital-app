@@ -3,6 +3,7 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+<<<<<<< HEAD
   cloud_firestore
   connectivity_plus
   file_selector_windows
@@ -11,6 +12,9 @@ list(APPEND FLUTTER_PLUGIN_LIST
   firebase_storage
   flutter_secure_storage_windows
   geolocator_windows
+=======
+  url_launcher_windows
+>>>>>>> 7693faa (updated repo)
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST

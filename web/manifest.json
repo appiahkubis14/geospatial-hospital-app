@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "hospitalmap",
     "short_name": "hospitalmap",
+=======
+    "name": "hospital_locator",
+    "short_name": "hospital_locator",
+>>>>>>> 7693faa (updated repo)
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

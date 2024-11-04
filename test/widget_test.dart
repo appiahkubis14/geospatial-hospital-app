@@ -8,12 +8,20 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
+<<<<<<< HEAD
 import 'package:hospitalmap/main.dart';
+=======
+import 'package:hospital_locator/main.dart';
+>>>>>>> 7693faa (updated repo)
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
+<<<<<<< HEAD
     await tester.pumpWidget(MyApp());
+=======
+    await tester.pumpWidget(const MyApp());
+>>>>>>> 7693faa (updated repo)
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);

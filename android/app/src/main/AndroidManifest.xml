@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.hospitalmap">
 <uses-permission android:name="android.permission.INTERNET"/>
 
@@ -7,6 +8,16 @@
         android:label="hospitalmap"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
+=======
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:label="hospital_locator"
+        android:name="${applicationName}"
+        android:icon="@mipmap/ic_launcher">
+>>>>>>> 7693faa (updated repo)
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -27,6 +38,7 @@
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
+<<<<<<< HEAD
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
@@ -36,6 +48,8 @@
                 <data android:scheme="yamforo"/> <!-- host is option -->
             </intent-filter>
             
+=======
+>>>>>>> 7693faa (updated repo)
         </activity>
         <!-- Don't delete the meta-data below.
              This is used by the Flutter tool to generate GeneratedPluginRegistrant.java -->
@@ -54,7 +68,10 @@
             <data android:mimeType="text/plain"/>
         </intent>
     </queries>
+<<<<<<< HEAD
     <queries>
         <provider android:authorities="com.facebook.katana.provider.PlatformProvider" />
     </queries>
+=======
+>>>>>>> 7693faa (updated repo)
 </manifest>

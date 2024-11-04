@@ -5,7 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Hospitalmap</string>
+=======
+	<string>Hospital Locator</string>
+>>>>>>> 7693faa (updated repo)
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +17,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>hospitalmap</string>
+=======
+	<string>hospital_locator</string>
+>>>>>>> 7693faa (updated repo)
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -29,9 +37,12 @@
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
 	<key>UISupportedInterfaceOrientations</key>
+<<<<<<< HEAD
 	<key>GIDClientID</key>
 
 	<string>329360361617-o0kf37ai8kbcglqpnccphg5t2utu6bmd.apps.googleusercontent.com</string>
+=======
+>>>>>>> 7693faa (updated repo)
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
@@ -44,6 +55,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+<<<<<<< HEAD
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
@@ -56,10 +68,13 @@
 		</dict>
 	</array>
 
+=======
+>>>>>>> 7693faa (updated repo)
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+<<<<<<< HEAD
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
@@ -67,5 +82,7 @@
 		<key>NSAllowsArbitraryLoadsInWebContent</key>
 		<true/>
 	</dict>
+=======
+>>>>>>> 7693faa (updated repo)
 </dict>
 </plist>

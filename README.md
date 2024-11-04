@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital Finder Mobile App
 
 A comprehensive Flutter mobile application designed to help users locate nearby hospitals, clinics, and healthcare facilities quickly and efficiently. This app offers real-time data, user-friendly navigation, and a variety of features to enhance the user experience.
@@ -29,6 +30,11 @@ A comprehensive Flutter mobile application designed to help users locate nearby 
   <img src="https://github.com/user-attachments/assets/bf59ba27-11b0-48e7-8601-c4411aca38b2" width="200" style="margin: 30px;"/>
 </div>
 
+=======
+# hospital_locator
+
+A new Flutter project.
+>>>>>>> 7693faa (updated repo)
 
 ## Getting Started
 
@@ -40,6 +46,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
+<<<<<<< HEAD
 [online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
 ## Installation and Setup
@@ -47,3 +54,7 @@ For help getting started with Flutter development, view the
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/your-username/hospital_finder.git
+=======
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 7693faa (updated repo)
